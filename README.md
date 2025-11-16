@@ -18,4 +18,4 @@ Outlier detection using standard deviation thresholds
 Interactive plots for trend exploration
 
 Technologies Used:
-Python, pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+Python, pandas, NumPy, Matplotlib, Seaborn, Google Colab
